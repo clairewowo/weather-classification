@@ -1,1 +1,1 @@
-# weather-classification
+In this project, I aim to classify weather into images into 4 categories: rainy, cloudy, sunny, and sunrise. The data is from this website: https://data.mendeley.com/datasets/4drtyfjtfy/1. To classify images, I used a CNN from tensorflow (keras). The final validation accuracy was 83%. 
